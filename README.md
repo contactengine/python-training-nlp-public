@@ -10,7 +10,7 @@ We're trying to build a simple classifier to predict intents in a text dataset b
 
 We looked at word vectors, a fundamental concept in modern NLP that provides a way to read words (more specifically called tokens in this context, i.e. parts of words/combinations of characters arising in our text) and transform them into vectors of numbers for a machine learning model to ingest, in a way that maintains certain relationships (e.g. semantic or grammatical) between them.
 
-For the Gensim part, you'll need to install it by running (in the Anaconda command line, preferably in a new conda environment that you've set up just for this project):
+For the [Gensim](https://radimrehurek.com/gensim/) part, you'll need to install it by running (in the Anaconda command line, preferably in a new conda environment that you've set up just for this project):
 
     pip install gensim
 
