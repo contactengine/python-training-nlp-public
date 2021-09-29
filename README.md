@@ -18,7 +18,7 @@ The other modules used so far should all be present in any base installation of 
 
 ## Session 2
 
-We made a set of features to act as input to a machine learning model, by 
+We made a set of features to act as input to a machine learning model, by using word vectors replacing the words in the data with word vectors and then aggregating them in a couple of different ways.
 
 ## Files
 
